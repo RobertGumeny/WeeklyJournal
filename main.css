@@ -1,4 +1,16 @@
 body {
   color: #424874;
   background-color: #dcd6f7;
+  text-align: center;
+}
+header {
+  text-align: center;
+}
+header hr {
+  border-top: 8px;
+  border-color: #424874;
+  width: 80%;
+}
+.sub-header {
+  text-decoration: underline;
 }

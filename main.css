@@ -1,3 +1,4 @@
+/* BEGIN SIDENAV STYLING */
 .fa-book{
   color: #0f4c75;
   background: #bbe1fa;
@@ -31,4 +32,13 @@
 }
 .sidenav a:hover{
   color: #f1f1f1;
+}
+/* END SIDENAV STYLING */
+/* EXTRA PADDING FOR SECTIONS */
+.extra-padding{
+  height: 25vh;
+}
+/* BEGIN WEEK ONE STYLING */
+.week-one-bg{
+  background-color: #bbe1fa;
 }
